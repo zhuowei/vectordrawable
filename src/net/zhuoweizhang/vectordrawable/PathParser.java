@@ -12,7 +12,7 @@
  * the License.
  */
 
-package android.util;
+package net.zhuoweizhang.vectordrawable;
 
 import android.graphics.Path;
 import android.util.Log;
